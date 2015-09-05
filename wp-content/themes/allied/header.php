@@ -39,7 +39,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/" >
-        <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/alliedlogoonly.jpg" id="allied-logo" alt="Allied Search"> Allied Search
+        <img class="hidden-xs" src="<?php echo get_template_directory_uri(); ?>/images/alliedlogoonly.jpg" id="allied-logo" alt="Allied Search"> Allied Search
       </a>
     </div>
 
