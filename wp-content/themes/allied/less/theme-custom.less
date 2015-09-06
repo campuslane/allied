@@ -170,18 +170,22 @@ span.wpcf7-not-valid-tip {
 }
 
 
-/** Responsive Breaks  **/
-@media (min-width: @screen-xs) {
-	div.navbar-header a.navbar-brand {
-		font-size:20px;
-	}
 
-	#allied-logo {
-		height:20px;
-	}
+div.navbar-header a.navbar-brand {
+	font-size:20px;
 }
 
-@media (min-width: @screen-sm-min) {
+#allied-logo {
+	height:20px;
+}
+
+@media (min-width: 768px) {
+
+	nav.navbar-default {
+		min-height:50px;
+		height:100px;
+	}
+	
     div.navbar-header a.navbar-brand {
 		font-size:40px;
 	}

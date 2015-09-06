@@ -28,7 +28,7 @@
 <body <?php body_class(); ?>>
 
 <div class="container" style="padding:0;">
-<nav class="navbar navbar-default" style="margin-bottom:0px">
+<nav class="navbar navbar-default" style="margin-bottom:0px;">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
